@@ -1,4 +1,4 @@
-﻿# Created by https://www.toptal.com/developers/gitignore/api/visualstudio,xamarinstudio,aspnetcore,android,androidstudio,xcode,xcodeinjection
+# Created by https://www.toptal.com/developers/gitignore/api/visualstudio,xamarinstudio,aspnetcore,android,androidstudio,xcode,xcodeinjection
 # Edit at https://www.toptal.com/developers/gitignore?templates=visualstudio,xamarinstudio,aspnetcore,android,androidstudio,xcode,xcodeinjection
 
 ### Android ###
@@ -715,3 +715,35 @@ FodyWeavers.xsd
 # Additional files built by Visual Studio
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudio,xamarinstudio,aspnetcore,android,androidstudio,xcode,xcodeinjection
+
+Components
+packages
+bin
+obj
+.vs
+*.pidb
+*.userprefs
+*.swp
+*.DS_Store
+*.nib
+*.suo
+*.user
+*.pfx
+*.lock.json
+*.nuget.props
+*.nuget.targets
+# ignore Xamarin.Android Resource.Designer.cs files
+**/*.Droid/**/[Rr]esource.[Dd]esigner.cs
+**/*.Android/**/[Rr]esource.[Dd]esigner.cs
+**/Android/**/[Rr]esource.[Dd]esigner.cs
+*/bin/*
+*/obj/*
+*/*/bin/*
+*/*/obj/*
+*/*/*/bin/*
+*/*/*/obj/*
+*_ReSharper.*/
+Resource.designer.cs
+*.cache
+UserPrefs.xml
+/.idea/*
