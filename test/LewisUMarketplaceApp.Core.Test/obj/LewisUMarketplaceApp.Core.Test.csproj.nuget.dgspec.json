@@ -1,0 +1,142 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/elijahmolloy/Desktop/code/LewisUMarketplaceApp/test/LewisUMarketplaceApp.Core.Test/LewisUMarketplaceApp.Core.Test.csproj": {}
+  },
+  "projects": {
+    "/Users/elijahmolloy/Desktop/code/LewisUMarketplaceApp/src/LewisUMarketplaceApp.Core/LewisUMarketplaceApp.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/elijahmolloy/Desktop/code/LewisUMarketplaceApp/src/LewisUMarketplaceApp.Core/LewisUMarketplaceApp.Core.csproj",
+        "projectName": "LewisUMarketplaceApp.Core",
+        "projectPath": "/Users/elijahmolloy/Desktop/code/LewisUMarketplaceApp/src/LewisUMarketplaceApp.Core/LewisUMarketplaceApp.Core.csproj",
+        "packagesPath": "/Users/elijahmolloy/.nuget/packages/",
+        "outputPath": "/Users/elijahmolloy/Desktop/code/LewisUMarketplaceApp/src/LewisUMarketplaceApp.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/elijahmolloy/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://artifactory.spectrumtoolbox.com/artifactory/api/nuget/nuget": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "MvvmCross": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.408/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/elijahmolloy/Desktop/code/LewisUMarketplaceApp/test/LewisUMarketplaceApp.Core.Test/LewisUMarketplaceApp.Core.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/elijahmolloy/Desktop/code/LewisUMarketplaceApp/test/LewisUMarketplaceApp.Core.Test/LewisUMarketplaceApp.Core.Test.csproj",
+        "projectName": "LewisUMarketplaceApp.Core.Test",
+        "projectPath": "/Users/elijahmolloy/Desktop/code/LewisUMarketplaceApp/test/LewisUMarketplaceApp.Core.Test/LewisUMarketplaceApp.Core.Test.csproj",
+        "packagesPath": "/Users/elijahmolloy/.nuget/packages/",
+        "outputPath": "/Users/elijahmolloy/Desktop/code/LewisUMarketplaceApp/test/LewisUMarketplaceApp.Core.Test/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/elijahmolloy/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net461"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://artifactory.spectrumtoolbox.com/artifactory/api/nuget/nuget": {}
+        },
+        "frameworks": {
+          "net461": {
+            "targetAlias": "net461",
+            "projectReferences": {
+              "/Users/elijahmolloy/Desktop/code/LewisUMarketplaceApp/src/LewisUMarketplaceApp.Core/LewisUMarketplaceApp.Core.csproj": {
+                "projectPath": "/Users/elijahmolloy/Desktop/code/LewisUMarketplaceApp/src/LewisUMarketplaceApp.Core/LewisUMarketplaceApp.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net461": {
+          "targetAlias": "net461",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.11.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.16.1, )"
+            },
+            "MvvmCross": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "MvvmCross.Tests": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.2, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.408/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

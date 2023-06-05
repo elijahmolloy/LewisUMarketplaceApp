@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Gz6JpXLgClS7fEheibMI9CHvIRicwMH5+KPv8O6ft4cNWtfx60rVbexAel7RSQp7a7+z6bs2MR1JxjKZDt+ihQ==",
+  "success": true,
+  "projectFilePath": "/Users/elijahmolloy/Desktop/code/LewisUMarketplaceApp/src/LewisUMarketplaceApp.Core/LewisUMarketplaceApp.Core.csproj",
+  "expectedPackageFiles": [
+    "/Users/elijahmolloy/.nuget/packages/microsoft.extensions.logging.abstractions/5.0.0/microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "/Users/elijahmolloy/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/elijahmolloy/.nuget/packages/mvvmcross/8.0.2/mvvmcross.8.0.2.nupkg.sha512",
+    "/Users/elijahmolloy/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

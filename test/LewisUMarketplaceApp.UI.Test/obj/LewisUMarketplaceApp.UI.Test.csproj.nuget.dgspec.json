@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/elijahmolloy/Desktop/code/LewisUMarketplaceApp/test/LewisUMarketplaceApp.UI.Test/LewisUMarketplaceApp.UI.Test.csproj": {}
+  },
+  "projects": {
+    "/Users/elijahmolloy/Desktop/code/LewisUMarketplaceApp/test/LewisUMarketplaceApp.UI.Test/LewisUMarketplaceApp.UI.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/elijahmolloy/Desktop/code/LewisUMarketplaceApp/test/LewisUMarketplaceApp.UI.Test/LewisUMarketplaceApp.UI.Test.csproj",
+        "projectName": "LewisUMarketplaceApp.UI.Test",
+        "projectPath": "/Users/elijahmolloy/Desktop/code/LewisUMarketplaceApp/test/LewisUMarketplaceApp.UI.Test/LewisUMarketplaceApp.UI.Test.csproj",
+        "packagesPath": "/Users/elijahmolloy/.nuget/packages/",
+        "outputPath": "/Users/elijahmolloy/Desktop/code/LewisUMarketplaceApp/test/LewisUMarketplaceApp.UI.Test/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/elijahmolloy/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net461"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://artifactory.spectrumtoolbox.com/artifactory/api/nuget/nuget": {}
+        },
+        "frameworks": {
+          "net461": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {
+          "dependencies": {
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.2, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            },
+            "Xamarin.UITest": {
+              "target": "Package",
+              "version": "[3.2.2, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

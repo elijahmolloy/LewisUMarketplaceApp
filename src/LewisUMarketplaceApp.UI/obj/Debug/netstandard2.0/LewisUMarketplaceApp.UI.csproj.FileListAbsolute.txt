@@ -1,0 +1,17 @@
+/Users/elijahmolloy/Desktop/code/LewisUMarketplaceApp/src/LewisUMarketplaceApp.UI/bin/Debug/netstandard2.0/LewisUMarketplaceApp.UI.deps.json
+/Users/elijahmolloy/Desktop/code/LewisUMarketplaceApp/src/LewisUMarketplaceApp.UI/bin/Debug/netstandard2.0/LewisUMarketplaceApp.UI.dll
+/Users/elijahmolloy/Desktop/code/LewisUMarketplaceApp/src/LewisUMarketplaceApp.UI/bin/Debug/netstandard2.0/LewisUMarketplaceApp.UI.pdb
+/Users/elijahmolloy/Desktop/code/LewisUMarketplaceApp/src/LewisUMarketplaceApp.UI/bin/Debug/netstandard2.0/LewisUMarketplaceApp.Core.dll
+/Users/elijahmolloy/Desktop/code/LewisUMarketplaceApp/src/LewisUMarketplaceApp.UI/bin/Debug/netstandard2.0/LewisUMarketplaceApp.Core.pdb
+/Users/elijahmolloy/Desktop/code/LewisUMarketplaceApp/src/LewisUMarketplaceApp.UI/obj/Debug/netstandard2.0/LewisUMarketplaceApp.UI.csproj.AssemblyReference.cache
+/Users/elijahmolloy/Desktop/code/LewisUMarketplaceApp/src/LewisUMarketplaceApp.UI/obj/Debug/netstandard2.0/LewisUMarketplaceApp.UI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elijahmolloy/Desktop/code/LewisUMarketplaceApp/src/LewisUMarketplaceApp.UI/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/elijahmolloy/Desktop/code/LewisUMarketplaceApp/src/LewisUMarketplaceApp.UI/obj/Debug/netstandard2.0/Pages/HomePage.xaml.g.cs
+/Users/elijahmolloy/Desktop/code/LewisUMarketplaceApp/src/LewisUMarketplaceApp.UI/obj/Debug/netstandard2.0/Resources/Colors.xaml.g.cs
+/Users/elijahmolloy/Desktop/code/LewisUMarketplaceApp/src/LewisUMarketplaceApp.UI/obj/Debug/netstandard2.0/LewisUMarketplaceApp.UI.AssemblyInfoInputs.cache
+/Users/elijahmolloy/Desktop/code/LewisUMarketplaceApp/src/LewisUMarketplaceApp.UI/obj/Debug/netstandard2.0/LewisUMarketplaceApp.UI.AssemblyInfo.cs
+/Users/elijahmolloy/Desktop/code/LewisUMarketplaceApp/src/LewisUMarketplaceApp.UI/obj/Debug/netstandard2.0/LewisUMarketplaceApp.UI.csproj.CoreCompileInputs.cache
+/Users/elijahmolloy/Desktop/code/LewisUMarketplaceApp/src/LewisUMarketplaceApp.UI/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/elijahmolloy/Desktop/code/LewisUMarketplaceApp/src/LewisUMarketplaceApp.UI/obj/Debug/netstandard2.0/LewisUMarketplaceApp.UI.csproj.CopyComplete
+/Users/elijahmolloy/Desktop/code/LewisUMarketplaceApp/src/LewisUMarketplaceApp.UI/obj/Debug/netstandard2.0/LewisUMarketplaceApp.UI.dll
+/Users/elijahmolloy/Desktop/code/LewisUMarketplaceApp/src/LewisUMarketplaceApp.UI/obj/Debug/netstandard2.0/LewisUMarketplaceApp.UI.pdb

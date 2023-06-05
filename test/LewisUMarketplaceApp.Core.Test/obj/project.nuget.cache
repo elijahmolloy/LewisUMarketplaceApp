@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "H+l4kSjbkZ9KtzQchCuqLSKKzdBgX6Rq2vYpuSgo+CrIMuzKgX4N6dMJ5VvLIuT2+zNn/KV62OTaVQlfyKWg/w==",
+  "success": true,
+  "projectFilePath": "/Users/elijahmolloy/Desktop/code/LewisUMarketplaceApp/test/LewisUMarketplaceApp.Core.Test/LewisUMarketplaceApp.Core.Test.csproj",
+  "expectedPackageFiles": [
+    "/Users/elijahmolloy/.nuget/packages/castle.core/4.4.0/castle.core.4.4.0.nupkg.sha512",
+    "/Users/elijahmolloy/.nuget/packages/microsoft.codecoverage/16.11.0/microsoft.codecoverage.16.11.0.nupkg.sha512",
+    "/Users/elijahmolloy/.nuget/packages/microsoft.extensions.logging.abstractions/5.0.0/microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "/Users/elijahmolloy/.nuget/packages/microsoft.net.test.sdk/16.11.0/microsoft.net.test.sdk.16.11.0.nupkg.sha512",
+    "/Users/elijahmolloy/.nuget/packages/moq/4.16.1/moq.4.16.1.nupkg.sha512",
+    "/Users/elijahmolloy/.nuget/packages/mvvmcross/8.0.2/mvvmcross.8.0.2.nupkg.sha512",
+    "/Users/elijahmolloy/.nuget/packages/mvvmcross.tests/8.0.2/mvvmcross.tests.8.0.2.nupkg.sha512",
+    "/Users/elijahmolloy/.nuget/packages/nunit/3.13.2/nunit.3.13.2.nupkg.sha512",
+    "/Users/elijahmolloy/.nuget/packages/nunit3testadapter/4.0.0/nunit3testadapter.4.0.0.nupkg.sha512",
+    "/Users/elijahmolloy/.nuget/packages/system.console/4.3.1/system.console.4.3.1.nupkg.sha512",
+    "/Users/elijahmolloy/.nuget/packages/system.runtime.compilerservices.unsafe/4.5.3/system.runtime.compilerservices.unsafe.4.5.3.nupkg.sha512",
+    "/Users/elijahmolloy/.nuget/packages/system.threading.tasks.extensions/4.5.4/system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}

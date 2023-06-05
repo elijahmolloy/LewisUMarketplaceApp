@@ -1,0 +1,9 @@
+/Users/elijahmolloy/Desktop/code/LewisUMarketplaceApp/src/LewisUMarketplaceApp.Core/bin/Debug/netstandard2.0/LewisUMarketplaceApp.Core.deps.json
+/Users/elijahmolloy/Desktop/code/LewisUMarketplaceApp/src/LewisUMarketplaceApp.Core/bin/Debug/netstandard2.0/LewisUMarketplaceApp.Core.dll
+/Users/elijahmolloy/Desktop/code/LewisUMarketplaceApp/src/LewisUMarketplaceApp.Core/bin/Debug/netstandard2.0/LewisUMarketplaceApp.Core.pdb
+/Users/elijahmolloy/Desktop/code/LewisUMarketplaceApp/src/LewisUMarketplaceApp.Core/obj/Debug/netstandard2.0/LewisUMarketplaceApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elijahmolloy/Desktop/code/LewisUMarketplaceApp/src/LewisUMarketplaceApp.Core/obj/Debug/netstandard2.0/LewisUMarketplaceApp.Core.AssemblyInfoInputs.cache
+/Users/elijahmolloy/Desktop/code/LewisUMarketplaceApp/src/LewisUMarketplaceApp.Core/obj/Debug/netstandard2.0/LewisUMarketplaceApp.Core.AssemblyInfo.cs
+/Users/elijahmolloy/Desktop/code/LewisUMarketplaceApp/src/LewisUMarketplaceApp.Core/obj/Debug/netstandard2.0/LewisUMarketplaceApp.Core.csproj.CoreCompileInputs.cache
+/Users/elijahmolloy/Desktop/code/LewisUMarketplaceApp/src/LewisUMarketplaceApp.Core/obj/Debug/netstandard2.0/LewisUMarketplaceApp.Core.dll
+/Users/elijahmolloy/Desktop/code/LewisUMarketplaceApp/src/LewisUMarketplaceApp.Core/obj/Debug/netstandard2.0/LewisUMarketplaceApp.Core.pdb
